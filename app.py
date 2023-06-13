@@ -2,9 +2,9 @@
 from config import *
 from source.pages import sidebar as sd
 from source.pages.header import *
-from source.graphs.africa_map import *
-from source.graphs.variants_proportion import variants_bar_plot
-from source.graphs.countries_sequences import countries_with_sequences_chart, countries_with_sequences_chart_one_variant
+from data.graphs.africa_map import *
+from data.graphs.variants_proportion import variants_bar_plot
+from data.graphs.countries_sequences import countries_with_sequences_chart, countries_with_sequences_chart_one_variant
 
 # Import Python Libraries
 import pandas as pd
