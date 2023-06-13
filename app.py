@@ -1,6 +1,6 @@
 # Import project packages
 from config import *
-from source. import siderbar as sd
+from data.source/pages. import siderbar as sd
 from source.header import *
 from data..streamlit.africa_map import *
 from data.graphs.variants_proportion import variants_bar_plot
