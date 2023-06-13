@@ -1,6 +1,6 @@
 # Import project packages
 from config import *
-from source.pages import sidebar as sd
+from source.pages import siderbar as sd
 from source.pages.header import *
 from data.graphs.africa_map import *
 from data.graphs.variants_proportion import variants_bar_plot
