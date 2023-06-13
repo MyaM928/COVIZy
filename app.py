@@ -1,7 +1,7 @@
 # Import project packages
 from config import *
 from source.header import *
-from data..streamlit.africa_map import *
+from data.streamlit.africa_map import *
 from data.graphs.variants_proportion import variants_bar_plot
 from data.graphs.countries_sequences import countries_with_sequences_chart, countries_with_sequences_chart_one_variant
 
