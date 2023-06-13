@@ -1,8 +1,8 @@
 # Import project packages
 from config import *
-from source.pages import siderbar as sd
-from source.pages.header import *
-from data.graphs.africa_map import *
+from source. import siderbar as sd
+from source.header import *
+from data..streamlit.africa_map import *
 from data.graphs.variants_proportion import variants_bar_plot
 from data.graphs.countries_sequences import countries_with_sequences_chart, countries_with_sequences_chart_one_variant
 
